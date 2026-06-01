@@ -1,6 +1,6 @@
 cask "linearswipe" do
-  version "1.1.2"
-  sha256 "d5231b857d7e0d39fa3261c06380489ca773d699e8431a1c8999cb873ad1938d"
+  version "1.0.0"
+  sha256 "4fa7c646f7993b64406adda359561162df453a7f6d77407a4d41bc2f115d956e"
 
   url "https://github.com/ChilledEther/LinearSwipe/releases/download/v#{version}/LinearSwipe.zip"
   name "LinearSwipe"
